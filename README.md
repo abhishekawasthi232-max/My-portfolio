@@ -2,7 +2,9 @@
 My projects
  
 Rapido Product Strategy: Reducing Ride Cancellation and Boosting Trust
+
 Project Contributor: Abhishek Awasthi
+
 Status: Strategy & Proposal (Ready for A/B Testing)
 
 Project Overview
